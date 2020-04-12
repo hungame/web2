@@ -1,0 +1,1 @@
+java -jar bmi2.jar
